@@ -40,7 +40,7 @@ __○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ __
 __○ ᴠᴇʀsɪᴏɴ : 2.0.1__
 __○ ᴄʀᴇᴀᴛᴏʀ :  @thesatyamxyz__
  
-**[ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ](https://t.me/thesatyamxyz)**
+**[𝗦𝗮𝘁𝘆𝗮𝗺](https://t.me/thesatyamxyz)**
 """
 
       MARKDOWN_TEXT = """
@@ -59,7 +59,7 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @thesatyamxyz__
 
 〰〰〰〰〰〰〰〰〰〰
 
-<b><a href="https://t.me/thesatyamxyz">ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/thesatyamxyz">𝗦𝗮𝘁𝘆𝗮𝗺</a></b>
 """
 
 # Bot status display
@@ -72,7 +72,7 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @thesatyamxyz__
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/thesatyamxyz">ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/thesatyamxyz">𝗦𝗮𝘁𝘆𝗮𝗺</a></b>
 """
 
 
